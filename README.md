@@ -30,7 +30,7 @@ Support:
 * Igor Kilunov (Embedded Firmware Development – User Interface) 
 * Mikhail Dimitras (3D printing support)
 
-### Acknowledgement
+### Acknowledgements
 We would like to acknowledge companies Logix ITS and Sphereco for 3D-printing parts for our project. Without their support we would not be able to build a working prototype.
 We are also greateful to many other people who were helping with components for prototyping and useful pieces of advice.
 
