@@ -36,6 +36,7 @@ We are also greateful to many other people who were helping with components for 
 
 ### Materials
 Here is a short video video demonstrating operation of the prototype:
+
 [![Youtube video](https://img.youtube.com/vi/-PUkswlvMIQ/mqdefault.jpg)](https://www.youtube.com/watch?v=-PUkswlvMIQ)
 
 Please refer to a detailed description in the Documentation folder. 
