@@ -17,7 +17,7 @@ The following are components of our project that could be potentially interestin
 * Power system (battery and a PC power supply unit) 
 
 ### Warning/Disclaimer
-Although we succeeded building a working prototype, not all functions have been implemented and no verification has been accomplished within the allocated time frame. Therefore, we do not recommend using this design AS IS for operation with real patients. The design requires additional work in order to make sure it is compliant to all required medical device regulations and to make sure it is safe for clinical use.
+Although we succeeded building a working prototype, not all functions have been implemented and no formal verification has been accomplished within the allocated time frame. Therefore, we do not recommend using this design AS IS for operation with real patients. The design requires additional work in order to make sure it is compliant to all required medical device regulations and to make sure it is safe for clinical use.
 
 ### Our team 
 * Nicolas Mouret (Mechanical Design, System integration) 
