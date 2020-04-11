@@ -32,9 +32,10 @@ Support:
 
 ### Acknowledgement
 We would like to acknowledge companies Logix ITS and Sphereco for 3D-printing parts for our project. Without their support we would not be able to build a working prototype.
+We are also greateful to many other people who were helping with components for prototyping and useful pieces of advice.
 
 ### Materials
 Here is a short video video demonstrating operation of the prototype:
-[![Youtube video]](https://www.youtube.com/watch?v=-PUkswlvMIQ)
+[![Youtube video](https://img.youtube.com/vi/-PUkswlvMIQ/mqdefault.jpg)](https://www.youtube.com/watch?v=-PUkswlvMIQ)
 
 Please refer to a detailed description in the Documentation folder. 
