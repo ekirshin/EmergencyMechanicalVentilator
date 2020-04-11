@@ -20,13 +20,15 @@ The following are components that could be potentially interesting for other pro
 Although we succeeded building a working prototype, not all functions have been implemented and no verification has been accomplished within the allocated time frame. Therefore, we do not recommend using this design AS IS for operation with real patients. The design requires additional work in order to make sure it is compliant to all required medical device regulations and to make sure it is safe for clinical use.
 
 ### Our team 
-Nicolas Mouret (Mechanical Design, System integration) 
-Evgeny Kirshin (Electronics, Firmware/Software Design, System Integration) 
-Stephane Delisle (Medical Expert Consultant) 
-Martin Girard (Medical Expert Consultant) 
-Michel Troli (Mechanical System Design Consultant) 
-Support: Igor Kilunov (Embedded Firmware Development – User Interface) 
-Mikhail Dimitras (3D printing support)
+* Nicolas Mouret (Mechanical Design, System integration) 
+* Evgeny Kirshin (Electronics, Firmware/Software Design, System Integration) 
+* Stephane Delisle (Medical Expert Consultant) 
+* Martin Girard (Medical Expert Consultant) 
+* Michel Troli (Mechanical System Design Consultant) 
+
+Support: 
+* Igor Kilunov (Embedded Firmware Development – User Interface) 
+* Mikhail Dimitras (3D printing support)
 
 ### Acknowledgement
 We would like to acknowledge companies Logix ITS and Sphereco for 3D-printing parts for our project. Without their support we would not be able to build a working prototype.
