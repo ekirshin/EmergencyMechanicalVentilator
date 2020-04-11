@@ -4,10 +4,10 @@
 
 ### The project
 This project is a response to an emerging requirement of ventilator units during the pandemy of COVID19. The project has been submitted to the [CodeLife Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge?t=ijPk3VV2JCbZn0uUJpmVUg), organized by Montreal General Hospital Foundation in collaboration with the Research Institute of the McGill University Health Centre (RI-MUHC). 
-Here we are uploading materials that could potentially help others on their way to a design a ventilator for urgent COVID19 response. The design has been implemented as a prototype and tested for feasibility purposes. 
+Here we are uploading materials that could potentially help others on their way to design a ventilator for urgent COVID19 response. The design has been implemented as a prototype and tested for feasibility purposes. 
 
 ### Implemented components
-The following are components that could be potentially interesting for other projects:
+The following are components of our project that could be potentially interesting for other designs:
 * Main air pumping mechanism
 * System of valves for air circulation
 * Mechanical system adjustments and safety valves
