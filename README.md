@@ -1,4 +1,4 @@
-![Ventilator Unit Concept](https://github.com/ekirshin/EmergencyMechanicalVentilator/tree/master/images/final_look_concept.png?raw=true)
+![Ventilator Unit Concept](https://github.com/ekirshin/EmergencyMechanicalVentilator/blob/master/images/final_look_concept.png?raw=true)
 
 # Emergency Mechanical Ventilator
 
