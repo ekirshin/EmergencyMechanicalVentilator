@@ -39,4 +39,8 @@ Here is a short video video demonstrating operation of the prototype:
 
 [![Youtube video](https://img.youtube.com/vi/-PUkswlvMIQ/mqdefault.jpg)](https://www.youtube.com/watch?v=-PUkswlvMIQ)
 
-Please refer to a detailed description in the Documentation folder. 
+Please refer to a detailed description in the Documentation folder, in particular these two main files:
+
+[2020.04.01%20-%20DesignNotes.pdf](https://github.com/ekirshin/EmergencyMechanicalVentilator/blob/master/Documentation/2020.04.01%20-%20DesignNotes.pdf)
+
+[Mechanical description_EmergencyMechanicalVentilator.pdf](https://github.com/ekirshin/EmergencyMechanicalVentilator/blob/master/Documentation/Mechanical%20description_EmergencyMechanicalVentilator.pdf)
